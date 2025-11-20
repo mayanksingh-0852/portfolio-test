@@ -1,0 +1,83 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    text-align: center;
+    padding: 9px;
+    background-color: #f4f4f4;
+    
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    /* border-radius: 50%; */
+    /* margin-bottom: 10px; */
+}
+
+section {
+    margin: 20px;
+}
+
+.project {
+    width: 200px; /* Square dimensions */
+    height: auto;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: flex; /* Aligns the containers side by side */
+    flex-direction: column;
+    text-align: center;
+    line-height: 200px; /* Vertically centers the text */
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#bio, #work {
+    background-color: #e9e9e9;
+    padding: 15px;
+    text-align: center;
+}
+
+footer {
+    /* background-color: #f4f4f4; */
+    text-align: center;
+    padding: 10px;
+}
+.Buttom{
+    background-color:grey;
+    color:white;
+}
+.cls1{
+    color: rgb(234, 128, 128);
+}
+.cls001{
+    text-align: center;
+}
+#down{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 5px;
+}
+.Contaner2{
+    text-align: center;
+
+}
+.Contaner2 img {
+    height: 250px;
+    width: 200px;
+    /* border-radius: 50%; */
+    margin-bottom: 10px;
+}
+.cls1{
+    text-align: center;
+} 
+#Your-Name{
+    color: #fc0c0c;
+}
+#terms{
+    text-align:left;
+}
